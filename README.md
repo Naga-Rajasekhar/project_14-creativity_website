@@ -1,10 +1,10 @@
-# Project 1 - HTML ![HTML Logo](./HTML_logo.png) and CSS ![CSS logo](./CSS_logo.png)
+# Project 14 - HTML ![HTML Logo](./HTML_logo.png) and CSS ![CSS logo](./CSS_logo.png)
 
 > ![Project 14](https://img.shields.io/badge/Project-14-brightgreen)
 >
 > By Naga Rajasekhar
 
-You can find the live deployment link of this web page here --> **[#](#)**
+You can find the live deployment link of this web page here --> **[Live Deployment Link](#)**
 <br/>
 <br/>
 <br/>
