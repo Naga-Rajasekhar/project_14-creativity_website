@@ -166,3 +166,75 @@ li {
   margin-bottom: -16rem;
   margin-left: 4rem;
 }
+
+@media screen and (max-width: 768px) {
+  * {
+    padding-bottom: 1rem;
+  }
+  .line,
+  .header-section-content {
+    display: none;
+  }
+
+  .header-section-image {
+    margin-left: 4rem;
+  }
+
+  .main-image-section {
+    height: 100vh;
+    width: 79.5vh;
+    background-image: url(./assets/pexels-rfstudio-3819572.jpg);
+    background-size: cover;
+  }
+
+  .creativity-content {
+    position: absolute;
+    margin-left: 3rem;
+    margin-top: 35rem;
+  }
+
+  .creativity-heading,
+  .creativity-bal {
+    font-size: 5rem;
+  }
+
+  .descritption {
+    position: relative;
+    top: 48rem;
+    left: -41rem;
+  }
+
+  .check-our-package {
+    position: relative;
+    top: 48rem;
+    left: -50rem;
+  }
+  .right-content {
+    display: none;
+  }
+
+  .roles {
+    position: absolute;
+    margin-top: 52rem;
+    margin-left: 1rem;
+  }
+
+  .bottom-content {
+    position: absolute;
+    margin-top: 50rem;
+    margin-left: 11rem;
+  }
+
+  .bottom-main-image {
+    height: 150px;
+    width: 300px;
+  }
+
+  .icons-images {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 109rem;
+    margin-left: 7rem;
+  }
+}
