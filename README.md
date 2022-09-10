@@ -6,7 +6,7 @@
 
 You can find the live deployment link of this web page below
 
-# [Live Deployment Link](https://creativitywebsite.netlify.app/)\*\*
+# [Live Deployment Link](https://creativitywebsite.netlify.app/)
 
 <br/>
 <br/>
